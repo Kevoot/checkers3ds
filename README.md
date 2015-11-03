@@ -1,5 +1,5 @@
 # checkers3ds
-A poorly implemented and bloated version of checkers for the 3ds, in glorious ASCII art
+A version of checkers for the 3ds, in glorious ASCII art
 
 I'm currently entering my 2nd year at Uni, so don't expect a clean or stable game. This is more a less a test of the portability
 of code I've written for a freshman year class
